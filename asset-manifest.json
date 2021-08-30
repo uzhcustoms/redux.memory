@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/redux.memory/static/css/main.790912b0.chunk.css",
-    "main.js": "/redux.memory/static/js/main.630b137d.chunk.js",
-    "main.js.map": "/redux.memory/static/js/main.630b137d.chunk.js.map",
+    "main.css": "/redux.memory/static/css/main.33889e49.chunk.css",
+    "main.js": "/redux.memory/static/js/main.02ab0a2b.chunk.js",
+    "main.js.map": "/redux.memory/static/js/main.02ab0a2b.chunk.js.map",
     "runtime-main.js": "/redux.memory/static/js/runtime-main.0655e248.js",
     "runtime-main.js.map": "/redux.memory/static/js/runtime-main.0655e248.js.map",
     "static/js/2.b67ee8e9.chunk.js": "/redux.memory/static/js/2.b67ee8e9.chunk.js",
     "static/js/2.b67ee8e9.chunk.js.map": "/redux.memory/static/js/2.b67ee8e9.chunk.js.map",
     "index.html": "/redux.memory/index.html",
-    "static/css/main.790912b0.chunk.css.map": "/redux.memory/static/css/main.790912b0.chunk.css.map",
+    "static/css/main.33889e49.chunk.css.map": "/redux.memory/static/css/main.33889e49.chunk.css.map",
     "static/js/2.b67ee8e9.chunk.js.LICENSE.txt": "/redux.memory/static/js/2.b67ee8e9.chunk.js.LICENSE.txt",
     "static/media/bee.972fd774.png": "/redux.memory/static/media/bee.972fd774.png",
     "static/media/butterfly.2fd4e3b2.png": "/redux.memory/static/media/butterfly.2fd4e3b2.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.0655e248.js",
     "static/js/2.b67ee8e9.chunk.js",
-    "static/css/main.790912b0.chunk.css",
-    "static/js/main.630b137d.chunk.js"
+    "static/css/main.33889e49.chunk.css",
+    "static/js/main.02ab0a2b.chunk.js"
   ]
 }
