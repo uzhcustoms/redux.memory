@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/redux.memory/static/css/main.73722ee9.chunk.css",
+    "main.css": "/redux.memory/static/css/main.020881be.chunk.css",
     "main.js": "/redux.memory/static/js/main.dfa7c3f6.chunk.js",
     "main.js.map": "/redux.memory/static/js/main.dfa7c3f6.chunk.js.map",
     "runtime-main.js": "/redux.memory/static/js/runtime-main.0655e248.js",
@@ -8,7 +8,7 @@
     "static/js/2.7fbe2d22.chunk.js": "/redux.memory/static/js/2.7fbe2d22.chunk.js",
     "static/js/2.7fbe2d22.chunk.js.map": "/redux.memory/static/js/2.7fbe2d22.chunk.js.map",
     "index.html": "/redux.memory/index.html",
-    "static/css/main.73722ee9.chunk.css.map": "/redux.memory/static/css/main.73722ee9.chunk.css.map",
+    "static/css/main.020881be.chunk.css.map": "/redux.memory/static/css/main.020881be.chunk.css.map",
     "static/js/2.7fbe2d22.chunk.js.LICENSE.txt": "/redux.memory/static/js/2.7fbe2d22.chunk.js.LICENSE.txt",
     "static/media/bee.972fd774.png": "/redux.memory/static/media/bee.972fd774.png",
     "static/media/butterfly.2fd4e3b2.png": "/redux.memory/static/media/butterfly.2fd4e3b2.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.0655e248.js",
     "static/js/2.7fbe2d22.chunk.js",
-    "static/css/main.73722ee9.chunk.css",
+    "static/css/main.020881be.chunk.css",
     "static/js/main.dfa7c3f6.chunk.js"
   ]
 }
